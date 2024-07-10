@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1720623627|715983568';
+const CACHE_VERSION = '1720624947|135164109';
 /** @type {string} */
 const CACHE_PREFIX = 'DANMAKUPROJ-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
